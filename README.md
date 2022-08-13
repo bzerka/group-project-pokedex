@@ -5,7 +5,7 @@ Nome dos integrantes:
 - Murilo Caun Henrique
 - Igor de Castro
 
-Link do Surge: https://abaft-wilderness.surge.sh
+Link do Surge: https://labenu-pokedex10.surge.sh/
 
 ### Página inicial (home)
 #### Funciona:<br>
